@@ -26,4 +26,4 @@ COPY . .
 CMD [ "npm", "start" ]
 ```
 
-Note: all binary files of mozjpeg will be located in `/usr/local/bin`, e.g. `/usr/local/bin/jpegtran`
+Note: all binary files of mozjpeg will be located in `/usr/local/bin`, e.g. `/usr/local/bin/jpegtran`.
